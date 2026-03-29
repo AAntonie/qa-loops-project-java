@@ -2,8 +2,7 @@
 
 ```
 Cerințe Tehnice și Pași de Urmat
-1.	Continuă Proiectul Existent:
-○	Deschide local proiectul qa-final-project-java pe care l-ai creat pentru tema intermediară (cea de 40p).
+1.	Creeaza un nou proiect Java cu Maven
 2.	Creează Structura pentru Cod Sursă:
 ○	Până acum, aveai doar folderul src/test/java/. Acum, vei crea structura standard Maven pentru codul sursă al aplicației:
 ○	src/main/java/com/yourname/homework/
