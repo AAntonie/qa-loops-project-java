@@ -1,4 +1,4 @@
-![CI workflow status badge for qa-loops-project-java showing current build results](https://github.com/aantoni/qa-loops-project-java/actions/workflows/ci.yml/badge.svg)
+![CI workflow status badge for qa-loops-project-java showing current build results](https://github.com/aantonie/qa-loops-project-java/actions/workflows/ci.yml/badge.svg)
 
 ```
 Cerințe Tehnice și Pași de Urmat
